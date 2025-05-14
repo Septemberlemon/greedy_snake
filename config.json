@@ -1,0 +1,52 @@
+{
+  "cell2num": {
+    "apple": 0,
+    "empty": 1,
+    "rock": 2,
+    "saw": 3,
+    "snake_body": 4,
+    "snake_head": 5,
+    "thorn": 6,
+    "victory_pos": 7,
+    "wood": 8
+  },
+  "move2num": {
+    "up": 1,
+    "down": 2,
+    "left": 3,
+    "right": 4
+  },
+  "num2key": {
+    "1": "w",
+    "2": "s",
+    "3": "a",
+    "4": "d"
+  },
+  "cell2color": {
+    "apple": [
+      66,
+      67,
+      217
+    ],
+    "wood": [
+      10,
+      27,
+      66
+    ],
+    "rock": [
+      126,
+      92,
+      83
+    ],
+    "snake_lip_color": [
+      101,
+      78,
+      195
+    ],
+    "yellow_button": [
+      48,
+      217,
+      255
+    ]
+  }
+}
